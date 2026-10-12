@@ -1,0 +1,7 @@
+   langchain 
+    langchain-google-genai 
+    langchain-chroma 
+    langgraph 
+    chromadb 
+    python-dotenv 
+    pydantic
